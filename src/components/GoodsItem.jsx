@@ -9,15 +9,7 @@ function GoodsItem(props) {
     return (
         <div className="card">
             <div className="card-image">
-                {full_background === 'N/A' ? (
-                    <img
-                        className="activator"
-                        alt={name}
-                        src={`https://via.placeholder.com/300x450?text=${name}`}
-                    />
-                ) : (
-                    <img className="activator" alt={name} src={full_background} />
-                )}
+                <img className="activator" alt="" src={full_background} />
             </div>
             <div className="card-content">
                 <span className="card-title">{name}</span>
