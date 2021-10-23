@@ -26,8 +26,6 @@ function BasketList() {
             )}
             <li className="collection-item active">
                 Total price: {totalPrice}$
-                <button className="secondary-content btn-small">Confirm</button>
-
             </li>
             <li className="collection-item active">
                 <button className="btn btn-small">Confirm</button>
