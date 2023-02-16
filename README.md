@@ -1,10 +1,10 @@
-## Online Shop
+# Online Shop
 This is a React-based online shop that uses the [FortniteAPI.io](https://www.FortniteAPI.io/) to display items available for purchase.
 
 You can view the deployed project at https://leonid9191.github.io/shop-project/.
 
-# Table of Contents <a name="pro">ddd</a>
-* Technologies Used 
+## Table of Contents 
+* Technologies Used <a name="pro">ddd</a>
 * Features
 * Installation and Setup
 * Usage
@@ -13,7 +13,7 @@ You can view the deployed project at https://leonid9191.github.io/shop-project/.
 * Acknowledgements
 * Technologies Used
 
-# [This project was built using the following technologies:](#pro)
+## [This project was built using the following technologies:](#pro)
 
 React
 Redux
