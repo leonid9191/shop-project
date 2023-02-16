@@ -4,8 +4,8 @@ This is a React-based online shop that uses the [FortniteAPI.io](https://www.For
 You can view the deployed project at https://leonid9191.github.io/shop-project/.
 
 ## Table of Contents 
-* Technologies Used <a name="pro">ddd</a>
-* Features
+* **[Technologies Used]** (#technologies) 
+* **[Features]** (#features)
 * Installation and Setup
 * Usage
 * Contributing
@@ -13,26 +13,26 @@ You can view the deployed project at https://leonid9191.github.io/shop-project/.
 * Acknowledgements
 * Technologies Used
 
-## [This project was built using the following technologies:](#pro)
+## This project was built using the following technologies: <a id="technologies"></a>
 
-React
-Redux
-React Router
-Axios
-Bootstrap
-Font Awesome
-GitHub Pages
-Features
+* React
+* Redux
+* React Router
+* Axios
+* Bootstrap
+* Font Awesome
+* GitHub Pages
+## Features <a id="features"></a>
 This online shop allows users to:
 
-View a list of items available for purchase
-Filter items by name or category
-Sort items by price or name
-Add items to their cart
-View their cart and update the quantity of items
-Remove items from their cart
-View their total cost
-Installation and Setup
+* View a list of items available for purchase 
+* Filter items by name or category
+* Sort items by price or name
+* Add items to their cart
+* View their cart and update the quantity of items
+* Remove items from their cart
+* View their total cost
+## Installation and Setup
 To run this project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/leonid9191/shop-project.git
@@ -51,7 +51,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-License
+[License](#pro)
 This project is licensed under the MIT License.
 
 Acknowledgements
